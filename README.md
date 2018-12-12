@@ -9,13 +9,13 @@ One of the buttons (the one on the right in this case) sets the mode/portion amo
 
 # Hardware
 What you will need:
-1 Arduino Uno
-2 Pushbuttons (pulldown)
-4 LEDs (add more if you want more)
-1 Breadboard (standard size or longer)
-1 Diode
-1 Transistor (3 pin like in a kit)
-6 Resistors of 570Ω ±5% tolerance (green, purple, and red lines with one gold line)
-1 Resistor of 220Ω ±5% tolerance (all red lines with one gold line)
-1 5 volt motor
-A bunch of wires
+* 1 Arduino Uno
+* 2 Pushbuttons (pulldown)
+* 4 LEDs (add more if you want more)
+* 1 Breadboard (standard size or longer)
+* 1 Diode
+* 1 Transistor (3 pin like in a kit)
+* 6 Resistors of 570Ω ±5% tolerance (green, purple, and red lines with one gold line)
+* 1 Resistor of 220Ω ±5% tolerance (all red lines with one gold line)
+* 1 5 volt motor
+* A bunch of wires
