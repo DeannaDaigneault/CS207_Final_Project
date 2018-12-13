@@ -1,5 +1,4 @@
 # CS207_Final_Project
-This will be where I put information about my final project.
 
 # Introduction
 This is supposed to be a rice dispenser powered by a motor which is controlled by a few buttons and an Arduino Uno, and there are 4 LEDs to indicate which mode you are on. The motor is connected to a turbine, like in a cereal dispenser in a hotel breakfast.
