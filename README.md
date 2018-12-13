@@ -18,4 +18,23 @@ What you will need:
 * 6 Resistors of 570Ω ±5% tolerance (green, purple, and red lines with one gold line)
 * 1 Resistor of 220Ω ±5% tolerance (all red lines with one gold line)
 * 1 5 volt motor
+* 1 Medium size pet food dispenser
+* 1 3D printed turbine
+* A drill with a saw attachment
 * A bunch of wires
+
+# Instructions
+* Step 1:
+Hook up the LEDs onto the breadboard. Place the resistors first before the wires (and it is recommended before the LEDs too).
+Put the pushbuttons on the breadboard and hook them up too.
+(insert image here)
+
+* Step 2:
+Measure the size of your motor and mark the side of your pet food dispenser based off the measurement.
+Afterwards, get the drill and attach the drill, make sure the saw size matches the motor. Go ahead and drill the hole in the side of the food dispenser.
+
+* Step 3: 
+Hook up the transistor and motor. Now is a good time to upload the code into the Arduino.
+
+* Step 4:
+Place the turbine into the food dispenser and then the motor into the hole you drilled out earlier. Tape the end of the motor to make sure it stays.
