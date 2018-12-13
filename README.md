@@ -27,7 +27,7 @@ What you will need:
 * Step 1:
 Hook up the LEDs onto the breadboard. Place the resistors first before the wires (and it is recommended before the LEDs too).
 Put the pushbuttons on the breadboard and hook them up too.
-(insert image here)
+
 
 * Step 2:
 Measure the size of your motor and mark the side of your pet food dispenser based off the measurement.
